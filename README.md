@@ -6,7 +6,7 @@ This repository contains sample data for creating a sales dashboard using Power 
 
 Below is a snapshot of the Power BI dashboard created using the provided data:
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Files
 
