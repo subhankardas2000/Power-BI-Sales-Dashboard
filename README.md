@@ -10,7 +10,7 @@ Below is a snapshot of the Power BI dashboard created using the provided data:
 
 ## Files
 
-### `updated_demo_orders.xlsx`
+### `orders.xlsx`
 
 This file contains information about customer orders. The columns included are:
 
@@ -20,7 +20,7 @@ This file contains information about customer orders. The columns included are:
 - **District**: Districts in West Bengal where the orders were placed.
 - **Village**: Villages corresponding to the districts.
 
-### `demo_sales.xlsx`
+### `Details.xlsx`
 
 This file contains sales-related data corresponding to the orders in `updated_demo_orders.xlsx`. The columns included are:
 
