@@ -1,7 +1,4 @@
-# Power-BI-Sales-Dashboard
-Sales Dashboard for Pahari Home Solutions Private Limited using Power BI
-
-# Pahari Home Solutions Private Limited - Sales Dashboard
+# Pahari Home Solutions Private Limited - Power-BI-Sales-Dashboard
 
 This repository contains sample data for creating a sales dashboard using Power BI for Pahari Home Solutions Private Limited. The data is organized in two Excel files: `updated_demo_orders.xlsx` and `demo_sales.xlsx`.
 
